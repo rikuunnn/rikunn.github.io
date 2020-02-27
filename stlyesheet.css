@@ -1,6 +1,7 @@
 
 
 
+
 header{
   width: 100%;
   height:1px;
@@ -27,7 +28,9 @@ color:#444;
 
   float: right;
 }
-
+.menu-icon{
+  display: none;
+}
 
 a {
 
